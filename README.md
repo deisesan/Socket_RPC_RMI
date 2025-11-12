@@ -2,7 +2,7 @@
 
 **Disciplina:** Sistemas Distribuídos  
 
-**Integrantes da dupla:** Anne Karolinne e Deise Santana 
+**Integrantes da dupla:** Ana Luiza, Anne Karolinne e Deise Santana  
 
 **Data de entrega:** 14/11/2025
 
@@ -14,14 +14,18 @@ Esta atividade aborda três tecnologias fundamentais para comunicação em siste
 
 1. **Socket** – Comunicação direta entre processos via rede.
 
-   1.1. Curso - Deise Santana - [The Art of Doing: Fundamental Socket Python Programming](https://www.udemy.com/course/the-art-of-doing-fundamental-socket-python-programming/)
-
 2. **RPC (Remote Procedure Call)** – Invocação remota de procedimentos.  
 
 3. **RMI (Remote Method Invocation)** – Versão orientada a objetos de RPC em Java.  
 
 Cada tema possui uma implementação prática conforme as instruções da atividade.
 
+## Cursos escolhidos 
+
+   1.1. Curso - Ana Luiza - [Java: Socket Programming Simplified](https://www.udemy.com/cart/subscribe/course/1456946/)
+
+   1.2. Curso - Deise Santana - [The Art of Doing: Fundamental Socket Python Programming](https://www.udemy.com/course/the-art-of-doing-fundamental-socket-python-programming/)
+   
 ---
 
 ## Estrutura do Repositório
