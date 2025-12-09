@@ -32,5 +32,7 @@ Cada tema possui uma implementação prática conforme as instruções da ativid
 
 ## Estrutura do Repositório
 
-00. [Documentos](https://github.com/deisesan/PythonSockets/blob/97e8c8e818eba69896edb74eae31eb77fc368521/00%20-%20Documentos/Descri%C3%A7%C3%A3o%20da%20atividade.pdf)
-01. [Socket](https://github.com/deisesan/PythonSockets/tree/97e8c8e818eba69896edb74eae31eb77fc368521/01%20-%20Socket)
+0. [Documentos](https://github.com/deisesan/PythonSockets/blob/97e8c8e818eba69896edb74eae31eb77fc368521/00%20-%20Documentos/Descri%C3%A7%C3%A3o%20da%20atividade.pdf)
+1. [Códigos do curso The Art of Doing: Fundamental Socket Python Programming](https://github.com/deisesan/Socket_RPC_RMI/tree/7a88566da613af347f0fd07cb249b885d116d843/Fundamental%20Socket%20Python%20Programming)
+2. [Remote Method Invocation](https://github.com/deisesan/Socket_RPC_RMI/tree/7a88566da613af347f0fd07cb249b885d116d843/Remote%20Method%20Invocation)
+3. [Remote Procedure Call](https://github.com/deisesan/Socket_RPC_RMI/tree/7a88566da613af347f0fd07cb249b885d116d843/Remote%20Procedure%20Call)
